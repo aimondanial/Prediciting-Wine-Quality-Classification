@@ -1,0 +1,1 @@
+These dataset has a imbalance issue. Oversampling method is used in the dataset to counter with the imbalance case and the performance metrics for random forest and KNN model in multiclass has significant increased until 90%. 
